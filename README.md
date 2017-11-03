@@ -78,4 +78,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 - [`tradaa`](#tradaa)
 - [`heading 2`](#heading-2)
 - [`tradaa.with.dots`](#tradaa-with-dots)
-- [`code.tradaa_tradaa`](#code.tradaa-tradaa)
+- [`code.tradaa_tradaa`](#code-tradaa-tradaa)
